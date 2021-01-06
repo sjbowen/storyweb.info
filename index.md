@@ -1,4 +1,4 @@
-#Story:Web
+# Story:Web
 Building coalitions for climate action, co-authoring stories and crowd-curating museum collections through big data.
 
 Museum collections are more than objects, they are objects with stories that should evoke an emotional response and provoke reflection. Permanent collections can lose their power to amaze, being fixed in time and perspective. The web allows the sharing and reuse of public domain media including photographs, video, and sound created by professionals and enthusiasts. Yet this rich catalogue can be lost more widely. Story:Web is our proposal for how to innovatively use existing technology to connect Museum collections and publicly shared media to rewrite stories, grow them and make them personal, co-authored by Museums and the public in general to stimulate thought and action.
