@@ -5,42 +5,6 @@ Museum collections are more than objects, they are objects with stories that sho
 
 **Story:Web** will be exhibited at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/) on the lead up to [COP26 - the UN Climate Change Conference ](https://ukcop26.org/) in Glasgow in 2021.
 
-**Story:Web** is a new project from Simon Bowen at [Open Lab](), Sarah Mander at [Tyndall Centre for Climate Change Research](https://www.tyndall.ac.uk/) and [The Centre for Climate Change and Social Transitions](https://cast.ac.uk/), [the Great North Museum: Hancock](https://greatnorthmuseum.org.uk/), and contemporary musician, field recordist and sound artist [David de la Haye](https://daviddelahaye.co.uk/) - the creative and scientific partnership behind the innovative climate change engagement installations ‘Here and Now’ and ‘Making Marks’, the latter hosted as part of The Great North Museum:Hancock’s Dippy on Tour programme which centred around Climate Change and biodiversity loss. 
+**Story:Web** is a new project from Simon Bowen at [Open Lab](), Sarah Mander at [Tyndall Centre for Climate Change Research](https://www.tyndall.ac.uk/) and [The Centre for Climate Change and Social Transitions](https://cast.ac.uk/), [the Great North Museum: Hancock](https://greatnorthmuseum.org.uk/), and contemporary musician, field recordist and sound artist [David de la Haye](https://daviddelahaye.co.uk/) - the creative and scientific partnership behind the innovative climate change engagement installations [Here and Now](https://hereandnowchange.net/hereandnow.html) and [Making Marks](https://youtu.be/IIvTDEmxCEQ), the latter hosted as part of The Great North Museum:Hancock’s [Dippy on Tour](https://www.artfund.org/whats-on/exhibitions/2019/10/19/dippy-on-tour-exhibition) programme which centred around Climate Change and biodiversity loss. 
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/sjbowen/storyweb.info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjbowen/storyweb.info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div style="width: 600px;" class="embed-thumb"> <h1 style="position: relative;vertical-align: middle;display: inline-block; font-size: 24px; line-height:22px; color: #393939;margin-bottom: 10px; font-weight: 300;font-family: Proxima Nova, sans-serif;"> <img src="https://app.mural.co/avatar/simonbowen0408" style="position: absolute; border-radius: 50%; width: 36px;height: 36px;margin-right: 14px; display: inline-block; margin-top: -6px;margin-right: 10px; vertical-align: middle;"> <div style="padding-left:50px"> <span style="max-width:555px;display: inline-block;overflow: hidden; white-space: nowrap;text-overflow: ellipsis;line-height: 1; height: 25px; margin-top: -3px;">StoryWeb: Grey Seal Skull</span> <span style="position:relative;top:-3px;font-size: 16px; margin-top: -6px; line-height: 24px;color: #393939; font-weight: 300;"> by Simon Bowen</span> </div> </h1> <div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;"> <div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/cop26reimaginingthemuseum4501/murals/cop26reimaginingthemuseum4501.1605806367979-5fb6a91f6e8bcc21f367c949-db15b10a-fe44-44f7-8d72-8e94a671cc9c.png?v=51008681-1e68-4af3-99fa-3673023ea32f) no-repeat center center; background-size: cover;"> <div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);"> </div> <a href="https://app.mural.co/t/cop26reimaginingthemuseum4501/m/cop26reimaginingthemuseum4501/1605806367979/b35844958af236f8ac0796c6192563db18f78cf2" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> </div> </div> <p style="margin-top: 10px;margin-bottom: 60px;line-height: 24px; font-size: 16px;font-family: Proxima Nova, sans-serif;font-weight: 400; color: #888888;"> You will be able to edit this mural. </p></div>
