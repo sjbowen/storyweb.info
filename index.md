@@ -1,3 +1,12 @@
+#Story:Web
+Building coalitions for climate action, co-authoring stories and crowd-curating museum collections through big data.
+
+Museum collections are more than objects, they are objects with stories that should evoke an emotional response and provoke reflection. Permanent collections can lose their power to amaze, being fixed in time and perspective. The web allows the sharing and reuse of public domain media including photographs, video, and sound created by professionals and enthusiasts. Yet this rich catalogue can be lost more widely. Story:Web is our proposal for how to innovatively use existing technology to connect Museum collections and publicly shared media to rewrite stories, grow them and make them personal, co-authored by Museums and the public in general to stimulate thought and action.
+
+**Story:Web** will be exhibited at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/) on the lead up to [COP26 - the UN Climate Change Conference ](https://ukcop26.org/) in Glasgow in 2021.
+
+**Story:Web** is a new project from Simon Bowen at [Open Lab](), Sarah Mander at [Tyndall Centre for Climate Change Research](https://www.tyndall.ac.uk/) and [The Centre for Climate Change and Social Transitions](https://cast.ac.uk/), [the Great North Museum: Hancock](https://greatnorthmuseum.org.uk/), and contemporary musician, field recordist and sound artist [David de la Haye](https://daviddelahaye.co.uk/) - the creative and scientific partnership behind the innovative climate change engagement installations ‘Here and Now’ and ‘Making Marks’, the latter hosted as part of The Great North Museum:Hancock’s Dippy on Tour programme which centred around Climate Change and biodiversity loss. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sjbowen/storyweb.info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
