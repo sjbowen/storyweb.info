@@ -9,7 +9,7 @@ This **Story:Web** of big data can then be mined, shared and contributed to both
 ## We need your Story:Snippets!
 We will demonstrate what a **Story:Web** looks like, sounds like, and is interacted with in the exhibition. To do this we need **Story:Snippets** to build a **Story:Web** – objects, information, media that connect with each other and show the complicated stories about climate change. 
 
-We have begun with a grey seal skull specimen and its link to coastal squeeze - see below. Now we need you to add further images, sounds, or text representing further "Story:Snippets" by [using this online form}(https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"}.
+We have begun with a grey seal skull specimen and its link to coastal squeeze - see below. Now we need you to add further images, sounds, or text representing further "Story:Snippets" by [using this online form](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"}.
 
 <div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
 
