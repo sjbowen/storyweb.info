@@ -11,7 +11,7 @@ We will demonstrate what a **Story:Web** looks like, sounds like, and is interac
 
 We have begun with a grey seal skull specimen and its link to coastal squeeze - see below. Now we need you to add further images, sounds, or text representing further "Story:Snippets" by [using this online form}(https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"}.
 
-<div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
 
 ## More on the Story:Web Concept
 Museum collections are more than objects, they are objects with stories that should evoke emotional responses and provoke reflection. Collections can sometimes lose their power to amaze, by being fixed in time and perspective.  
