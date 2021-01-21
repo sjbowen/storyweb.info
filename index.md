@@ -1,6 +1,8 @@
-## This is (the start) of a Story:Web
+## This is the beginning of a Grey Seal Story:Web
 <div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
-What images, sounds, and text do you have that relate to what you see? Please let us know [using this online form](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} and we'll add them to the growing Story:Web...
+What images, sounds, and text do you have that relate to what is already there?
+
+## Please [share your media](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} and we'll add it to the growing Story:Web...
 
 **Story:Web** is an idea that reimagines museums for climate action – taking them from place-based holders of the past to collectively curated, global, big-data resources that can be accessed and experienced, remotely from across the world.
 
