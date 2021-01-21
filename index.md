@@ -1,3 +1,7 @@
+## This is (the start) of a Story:Web
+<div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
+What images, sounds, and text do you have that relate to what you see? Please let us know [using this online form](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} and we'll add them to the growing Story:Web...
+
 **Story:Web** is an idea that reimagines museums for climate action – taking them from place-based holders of the past to collectively curated, global, big-data resources that can be accessed and experienced, remotely from across the world.
 
 **Story:Web** explores what happens if we consider museum collections as big data, linked with other organisations’ collections and with publicly shared media on websites such as Flickr and Bandcamp. In this way every collection object or media item becomes a **Story:Snippet**, which can be linked by different authors to tell larger stories. 
@@ -6,12 +10,6 @@ This **Story:Web** of big data can then be mined, shared and contributed to both
 
 **Story:Web** will be exhibited at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/) from June to October 2021 on the lead up to [COP26 - the UN Climate Change Conference ](https://ukcop26.org/) in Glasgow.
 
-## We need your Story:Snippets!
-We will demonstrate what a **Story:Web** looks like, sounds like, and is interacted with in the exhibition. To do this we need **Story:Snippets** to build a **Story:Web** – objects, information, media that connect with each other and show the complicated stories about climate change. 
-
-We have begun with a grey seal skull specimen and its link to coastal squeeze - see below. Now we need you to add further images, sounds, or text representing further "Story:Snippets" by [using this online form](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"}.
-
-<div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
 
 ## More on the Story:Web Concept
 Museum collections are more than objects, they are objects with stories that should evoke emotional responses and provoke reflection. Collections can sometimes lose their power to amaze, by being fixed in time and perspective.  
