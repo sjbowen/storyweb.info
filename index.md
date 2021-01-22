@@ -1,5 +1,7 @@
 ## This is the beginning of a Grey Seal Story:Web
 <div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
+Tap or click to explore the Story:Web. A [larger version is here](https://public.flourish.studio/visualisation/4975961/).
+
 What images, sounds, and text do you have that relate to what is already there?
 
 ## Please [share your media](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} so we can grow Story:Web
