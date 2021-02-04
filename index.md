@@ -6,4 +6,4 @@
 
 Our starting point was grey seals and coastal squeeze. Take a look and listen to how the [Story:Web is growing here](storyweb.html), and then [share any of your media that might connect with it here](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} .
 
-[About Story:Web](about.html) /| [Explore Story:Web](storyweb.html) /| [Share with Story:Web](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} 
+[About Story:Web](about.html) \| [Explore Story:Web](storyweb.html) \| [Share with Story:Web](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} 
