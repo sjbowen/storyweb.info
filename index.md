@@ -1,11 +1,11 @@
-## This is the beginning of a Story:Web...
-<div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
+## Share your media to kickstart Story:Web for COP26!
 
-The [Story:Web](storyweb.html) so far.
+[Story:Web](storyweb.html) explores what happens if we consider museum collections and publicly shared creative media as ‘big data,’ where objects, images, and sounds can be linked to tell the larger stories about climate change.
 
-Tap or click to explore the Story:Web [larger version here](https://public.flourish.studio/visualisation/4975961/). What snippets (images, sounds, text) do you have that relate to what is already there?
+[Story:Web](storyweb.html) was a finalist in the Reimagining Museums for Climate Action design challenge and will be exhibited at the Glasgow Science Centre from June to October 2021 on the lead up to COP26 (the UN Climate Change Conference).
 
-## Please [share your media](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} so we can grow Story:Web
+Our starting point was grey seals and coastal squeeze. Take a look and listen to how the [Story:Web is growing here](storyweb.html), and then [share any of your media that might connect with it here](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} .
+
 
 **Story:Web** is an idea that reimagines museums for climate action – taking them from place-based holders of the past to collectively curated, global, big-data resources that can be accessed and experienced, remotely from across the world.
 
