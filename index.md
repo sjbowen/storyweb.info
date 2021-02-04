@@ -1,5 +1,8 @@
 ## This is the beginning of a Story:Web...
 <div class="flourish-embed flourish-network" data-src="visualisation/4975961"><script src="https://public.flourish.studio/resources/embed.js">{newline}</script></div>
+
+The [Story:Web](storyweb.html) so far.
+
 Tap or click to explore the Story:Web [larger version here](https://public.flourish.studio/visualisation/4975961/). What snippets (images, sounds, text) do you have that relate to what is already there?
 
 ## Please [share your media](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} so we can grow Story:Web
