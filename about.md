@@ -8,7 +8,7 @@ This **Story:Web** of big data can then be mined, shared and contributed to both
 
 **Story:Web** will be exhibited at the [Glasgow Science Centre](https://www.glasgowsciencecentre.org/) from June to October 2021 on the lead up to [COP26 - the UN Climate Change Conference ](https://ukcop26.org/) in Glasgow.
 
-[Home](index.html) \| [Explore Story:Web](storyweb.html) \| [Share to Story:Web](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} 
+[Home](index.html) \| [Explore Story:Web](storyweb.html) \| [Share to Story:Web (diagram)](https://app.mural.co/t/openlab3486/m/openlab3486/1612530365152/0f61a364dceeaabff2d06258c71d29eb3a2e1774){:target="_blank"} \| [Share to Story:Web (form)](https://forms.gle/LSFefgYDQeUg5To96){:target="_blank"} 
 
 ## More on the Story:Web Concept
 Museum collections are more than objects, they are objects with stories that should evoke emotional responses and provoke reflection. Collections can sometimes lose their power to amaze, by being fixed in time and perspective.  
